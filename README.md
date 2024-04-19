@@ -1,3 +1,1 @@
-Simple discord bot to help me manage mushi league.
-
-Real readme maybe coming later once the bot is done...
+Discord bot based upon https://github.com/keithboone1/mushi-league-bot for ADV Revival tournaments.
